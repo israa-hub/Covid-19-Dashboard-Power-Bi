@@ -26,7 +26,7 @@ In this project I explores global **COVID-19 case data**, with a focus on visual
 | `covid dataset dashboard israa.pbix`    | PBIX      | Dashboard created in Power BI. |
 | `Data Visualisation group Report.pdf`| PDF       | Written report with background, method, and visualisation insights. |
 
----
+**Link for the dataset**: https://www.kaggle.com/datasets/imdevskp/corona-virus-report?resource=download
 
 ## 📌 Notes
 
